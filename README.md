@@ -1,4 +1,4 @@
-Automation Task Screen schots
+Automation Task Screen schots :-          
 Greater than the sum of number
 ![1](https://github.com/user-attachments/assets/66e0746a-a0f6-424c-a878-de3f38605014)
 Odd or Even
